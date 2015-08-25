@@ -8,3 +8,9 @@ Last club meeting, you learned all about the powers of styling your websites wit
 
 You're going to be tackling the lesson `Get Your Treasure With CSS Selectors`. If you finish that and still want more, take a stab at the `Kitten Wheelbarrow` lab.
 
+## Share Share Share!
+
+Don't forget to show off your skills. When you finish `Get Your Treasure With CSS Selectors`, screen shot your finished site or code and share with **\#flatironcodeclub** and **\##dontloseyourgems**.
+
+Took it even farther and finished `Kitten Wheelbarrow`, share your site or code with **\#flatironcodeclub** and **\#kittenwheelbarrow**
+
