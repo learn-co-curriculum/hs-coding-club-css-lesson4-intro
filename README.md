@@ -10,7 +10,7 @@ You're going to be tackling the lesson `Get Your Treasure With CSS Selectors`. I
 
 ## Share Share Share!
 
-Don't forget to show off your skills. When you finish `Get Your Treasure With CSS Selectors`, screen shot your finished site or code and share with **\#flatironcodeclub** and **\##dontloseyourgems**.
+Don't forget to show off your skills. When you finish `Get Your Treasure With CSS Selectors`, screenshot your finished site or code and share with **\#flatironcodeclub** and **\#dontloseyourgems**.
 
 Took it even farther and finished `Kitten Wheelbarrow`, share your site or code with **\#flatironcodeclub** and **\#kittenwheelbarrow**
 
