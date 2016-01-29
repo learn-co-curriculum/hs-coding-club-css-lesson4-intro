@@ -15,4 +15,4 @@ Don't forget to show off your skills. When you finish `Get Your Treasure With CS
 Took it even farther and finished `Kitten Wheelbarrow`, share your site or code with **\#flatironcodeclub** and **\#kittenwheelbarrow**
 
 
-<a href='https://learn.co/lessons/hs-coding-club-css-lesson4-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-css-lesson4-intro' title='Let's Get Coding!'>Let's Get Coding!</a> on Learn.co and start learning to code for free.</p>
